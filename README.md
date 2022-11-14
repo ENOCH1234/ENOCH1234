@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Enoch Olayode - @ENOCH1234
 - 👀 I’m interested in the future of web technologies and Artificial Intelligence especially in Robotics and the MetaVerse
 - 🌱 I’m currently learning Python and delving into robotics
-- 💞️ I’m looking to collaborate on Artificial Intelligence projects and Christian tech
+- 💞️ I’m looking to collaborate on Artificial Intelligence projects and Christian technologies
 - 📫 Reach me via olayodeenoch@gmail.com
 
 <!---
