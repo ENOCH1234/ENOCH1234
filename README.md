@@ -11,7 +11,7 @@
 &nbsp;
 <a href="mailto:olayodeenoch@gmail.com"><img src="https://img.shields.io/badge/Email-olayodeenoch%40gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/enoch-olayode"><img src="https://img.shields.io/badge/LinkedIn-Enoch%20Olayode-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/enocholayode"><img src="https://img.shields.io/badge/LinkedIn-Enoch%20Olayode-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
@@ -84,15 +84,15 @@ I also hold a **First Class B.Sc. in Computer Science (4.52/5.0 CGPA, Best Gradu
 | System | Description | Scale |
 |--------|-------------|-------|
 | **[NBC Arise Congress Portal](https://congress.ariseforimpact.org)** | National convention platform — PWA, live stream, registration | **20,883 registrations · 14,000+ concurrent users · zero downtime** |
-| **NBC RBS Pension System** | Multi-module PHP/MariaDB pension & retirement benefit management | **6,000+ member records** |
+| **[NBC RBS Pension System](https://nbcrbs.com)** | Multi-module PHP/MariaDB pension & retirement benefit management | **6,000+ member records** |
 | **[Smart Joe](https://smartjoe.mu)** | Corporate compliance SaaS — React/TypeScript, Supabase, 55 doc templates, DocuSign & Peach Payments | Mauritius market |
 | **SolaNaira** | Solana dApp PWA — NGN ↔ USDC conversions, Nigerian bank withdrawals via Yellow Card API | React PWA + Node.js/Express |
 | **[FlipEarns](https://flipearns.com)** | Affiliate marketing platform — fraud prevention, analytics dashboard, Korapay integration | Reduced DB queries: 19 → 3 |
-| **NBC CiS Registration** | Nationwide delegate registration portal — bulk upload, Remita RRR integration | Nigerian Baptist Convention |
+| **[NBC CiS Registration](https://registration.nigerianbaptist.org/portal)** | Nationwide delegate registration portal — bulk upload, Remita RRR integration | Nigerian Baptist Convention |
 | **NBC RBS Quiz App** | WebSocket real-time round-robin quiz — Laravel Reverb, Alpine.js, Livewire | Projector + tablet interfaces |
-| **AI Finder Africa** | AI tools discovery platform for African professionals | PHP, FULLTEXT search, dark theme |
-| **E-Connect** | Campus super-app landing backend — Nigeria's first campus super-app for students & NYSC corps members | Aug 2026 launch |
-| **PrayerBank** | Faith-based prayer & testimony platform | PostgreSQL (38 tables), JWT auth, Paystack & Flutterwave |
+| **[AI Finder Africa](https://aifinder.africa)** | AI tools discovery platform for African professionals | PHP, FULLTEXT search, dark theme |
+| **[E-Connect](https://econnectapp.ng)** | Campus super-app landing backend — Nigeria's first campus super-app for students & NYSC corps members | Aug 2026 launch |
+| **PrayerBank** | Faith-based prayer & testimony platform | PostgreSQL, JWT auth |
 
 ---
 
@@ -178,7 +178,7 @@ Microsoft Learn Student Ambassador · Google Developer Student Clubs Lead · MLH
 ### 📫 Let's Build Something Extraordinary
 
 [![Email](https://img.shields.io/badge/Email-olayodeenoch%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olayodeenoch@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enoch-olayode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enocholayode)
 [![GitHub](https://img.shields.io/badge/GitHub-ENOCH1234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ENOCH1234)
 
 📍 Ibadan, Nigeria (UTC+1) · **Open to relocation & remote opportunities worldwide**
