@@ -87,7 +87,7 @@ I also hold a **First Class B.Sc. in Computer Science (4.52/5.0 CGPA, Best Gradu
 | **[NBC RBS Pension System](https://nbcrbs.com)** | Multi-module PHP/MariaDB pension & retirement benefit management | **6,000+ member records** |
 | **[Smart Joe](https://smartjoe.mu)** | Corporate compliance SaaS — React/TypeScript, Supabase, 55 doc templates, DocuSign & Peach Payments | Mauritius market |
 | **SolaNaira** | Solana dApp PWA — NGN ↔ USDC conversions, Nigerian bank withdrawals via Yellow Card API | React PWA + Node.js/Express |
-| **[FlipEarns](https://flipearns.com)** | Affiliate marketing platform — fraud prevention, analytics dashboard, Korapay integration | Reduced DB queries: 19 → 3 |
+| **[FlipEarns](https://flipearns.com)** | Affiliate marketing platform — fraud prevention, analytics dashboard, Korapay integration | Reduced DB queries and improved payment integration systems |
 | **[NBC CiS Registration](https://registration.nigerianbaptist.org/portal)** | Nationwide delegate registration portal — bulk upload, Remita RRR integration | Nigerian Baptist Convention |
 | **NBC RBS Quiz App** | WebSocket real-time round-robin quiz — Laravel Reverb, Alpine.js, Livewire | Projector + tablet interfaces |
 | **[AI Finder Africa](https://aifinder.africa)** | AI tools discovery platform for African professionals | PHP, FULLTEXT search, dark theme |
