@@ -124,9 +124,13 @@ Google Speech API · Hidden Markov Models · Custom NLP · Browser Extension —
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-enoch-olayodes-projects.vercel.app/api?username=ENOCH1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats-enoch-olayodes-projects.vercel.app/api/top-langs/?username=ENOCH1234&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<!-- Streak stats — separate reliable host -->
+<img src="https://streak-stats.demolab.com?user=ENOCH1234&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<!-- Activity graph — its own stable deployment -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ENOCH1234&theme=tokyo-night&hide_border=true" />
 
 </div>
 
