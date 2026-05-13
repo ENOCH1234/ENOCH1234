@@ -125,9 +125,9 @@ Google Speech API · Hidden Markov Models · Custom NLP · Browser Extension —
 <div align="center">
 
 <!-- Streak stats — separate reliable host -->
-<img src="https://streak-stats.demolab.com?user=ENOCH1234&theme=tokyonight&hide_border=true" />
+<!-- <img src="https://streak-stats.demolab.com?user=ENOCH1234&theme=tokyonight&hide_border=true" />
 
-<br/><br/>
+<br/><br/> -->
 
 <!-- Activity graph — its own stable deployment -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ENOCH1234&theme=tokyo-night&hide_border=true" />
