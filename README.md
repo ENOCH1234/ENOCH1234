@@ -23,7 +23,7 @@ I'm **Enoch Olayode** — a results-driven Senior PHP/Laravel Engineer and Full-
 
 My systems serve **100,000+ end users across active production environments**, spanning fintech, institutional management, blockchain, nonprofit, and compliance sectors — across Nigeria, Mauritius, and the United States.
 
-I also hold a **First Class B.Sc. in Computer Science (Best Graduating Student)** and actively publish research in multilingual NLP, voice-based accessibility, and machine learning.
+I also hold a **First Class B.Sc. in Computer Science (Department Best Graduating Student)** and actively publish research in multilingual NLP, voice-based accessibility, and machine learning.
 
 ```
 🏢  Founder & Lead Engineer — Knopee Digital Services Ltd     (2019 – Present)
