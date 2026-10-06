@@ -142,11 +142,11 @@ Google Speech API · Hidden Markov Models · Custom NLP · Browser Extension - *
 ## 🎓 Education
 
 **B.Sc. Computer Science - First Class Honours** · Adekunle Ajasin University, Akungba Akoko *(2018 - 2023)*  
-📌 CGPA: **4.52 / 5.0** · **Best Graduating Student** (Top 1% of 120 students)  
+📌 **Best Graduating Student** (Top 1% of 120 students)  
 Microsoft Learn Student Ambassador · Google Developer Student Clubs Lead · MLH Organizer
 
 **Diploma in Computer Science** · The Ibarapa Polytechnic, Eruwa *(2015 - 2017)*  
-📌 CGPA: **3.74 / 4.0** · Top 5% of 150 students
+📌 Top 5% of 150 students
 
 ---
 
