@@ -7,11 +7,13 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=ENOCH1234&label=Profile+Views&color=3b82f6&style=flat-square" alt="profile views" />
+<a href="https://enocholayode.com"><img src="https://img.shields.io/badge/Website-enocholayode.com-3b82f6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 &nbsp;
 <a href="mailto:olayodeenoch@gmail.com"><img src="https://img.shields.io/badge/Email-olayodeenoch%40gmail.com-3b82f6?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
-<a href="https://linkedin.com/in/enocholayode"><img src="https://img.shields.io/badge/LinkedIn-Enoch%20Olayode-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/enoch-olayode"><img src="https://img.shields.io/badge/LinkedIn-Enoch%20Olayode-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=ENOCH1234&label=Profile+Views&color=3b82f6&style=flat-square" alt="profile views" />
 
 </div>
 
@@ -19,17 +21,19 @@
 
 ## 👤 About Me
 
-I'm **Enoch Olayode** — a results-driven Senior PHP/Laravel Engineer and Full-Stack Developer with **8+ years of professional experience** building scalable web platforms, enterprise SaaS systems, and AI-powered applications. I'm the founder of **Knopee Digital Services Ltd**, based in Ibadan, Nigeria, and open to global remote and relocation opportunities.
+I'm **Enoch Olayode** - a results-driven Senior PHP/Laravel Engineer and Full-Stack Developer with **8+ years of professional experience** building scalable web platforms, enterprise SaaS systems, and AI-powered applications. I'm the founder of **Knopee Digital Services Ltd**, based in Ibadan, Nigeria, and open to global remote and relocation opportunities.
 
-My systems serve **100,000+ end users across active production environments**, spanning fintech, institutional management, blockchain, nonprofit, and compliance sectors — across Nigeria, Mauritius, and the United States.
+My systems serve **100,000+ end users across active production environments**, spanning fintech, institutional management, blockchain, nonprofit, and compliance sectors - across Nigeria, Mauritius, and the United States.
+
+Personal Portfolio: [enocholayode.com](https://enocholayode.com)
 
 I also hold a **First Class B.Sc. in Computer Science (Department Best Graduating Student)** and actively publish research in multilingual NLP, voice-based accessibility, and machine learning.
 
 ```
-🏢  Founder & Lead Engineer — Knopee Digital Services Ltd     (2019 – Present)
-⛪  Lead Software Engineer  — Nigerian Baptist Convention      (2021 – Present)
-🌍  Lead Engineer           — Smart Joe, Mauritius (SaaS)     (2025 – Present)
-⛓️  Blockchain Engineer     — SolaNaira (Solana dApp)         (2025 – Present)
+🏢  Founder & Lead Engineer - Knopee Digital Services Ltd     (2019 - Present)
+⛪  Lead Software Engineer  - Nigerian Baptist Convention      (2021 - Present)
+🌍  Lead Engineer           - Smart Joe, Mauritius (SaaS)     (2025 - Present)
+⛓️  Blockchain Engineer     - SolaNaira (Solana dApp)         (2025 - Present)
 ```
 
 ---
@@ -83,15 +87,15 @@ I also hold a **First Class B.Sc. in Computer Science (Department Best Graduatin
 
 | System | Description | Scale |
 |--------|-------------|-------|
-| **[NBC Arise Congress Portal](https://congress.ariseforimpact.org)** | National convention platform — PWA, live stream, registration | **20,883 registrations · 14,000+ concurrent users · zero downtime** |
+| **[NBC Arise Congress Portal](https://congress.ariseforimpact.org)** | National convention platform - PWA, live stream, registration | **20,883 registrations · 14,000+ concurrent users · zero downtime** |
 | **[NBC RBS Pension System](https://nbcrbs.com)** | Multi-module PHP/MariaDB pension & retirement benefit management | **6,000+ member records** |
-| **[Smart Joe](https://smartjoe.mu)** | Corporate compliance SaaS — React/TypeScript, Supabase, 55 doc templates, DocuSign & Peach Payments | Mauritius market |
-| **SolaNaira** | Solana dApp PWA — NGN ↔ USDC conversions, Nigerian bank withdrawals via Yellow Card API | React PWA + Node.js/Express |
-| **[FlipEarns](https://flipearns.com)** | Affiliate marketing platform — fraud prevention, analytics dashboard, Korapay integration | Reduced DB queries and improved payment integration systems |
-| **[NBC CiS Registration](https://registration.nigerianbaptist.org/portal)** | Nationwide delegate registration portal — bulk upload, Remita RRR integration | Nigerian Baptist Convention |
-| **NBC CED Quiz App** | WebSocket real-time round-robin quiz — Laravel Reverb, Alpine.js, Livewire | Projector + tablet interfaces |
+| **[Smart Joe](https://smartjoe.mu)** | Corporate compliance SaaS - React/TypeScript, Supabase, 55 doc templates, DocuSign & Peach Payments | Mauritius market |
+| **SolaNaira** | Solana dApp PWA - NGN ↔ USDC conversions, Nigerian bank withdrawals via Yellow Card API | React PWA + Node.js/Express |
+| **[FlipEarns](https://flipearns.com)** | Affiliate marketing platform - fraud prevention, analytics dashboard, Korapay integration | Reduced DB queries and improved payment integration systems |
+| **[NBC CiS Registration](https://registration.nigerianbaptist.org/portal)** | Nationwide delegate registration portal - bulk upload, Remita RRR integration | Nigerian Baptist Convention |
+| **NBC CED Quiz App** | WebSocket real-time round-robin quiz - Laravel Reverb, Alpine.js, Livewire | Projector + tablet interfaces |
 | **[AI Finder Africa](https://aifinder.africa)** | AI tools discovery platform for African professionals | PHP, FULLTEXT search, dark theme |
-| **[E-Connect](https://econnectapp.ng)** | Campus super-app landing backend — Nigeria's first campus super-app for students & NYSC corps members | Aug 2026 launch |
+| **[E-Connect](https://econnectapp.ng)** | Campus super-app landing backend - Nigeria's first campus super-app for students & NYSC corps members | Aug 2026 launch |
 | **PrayerBank** | Faith-based prayer & testimony platform | PostgreSQL, JWT auth |
 
 ---
@@ -101,12 +105,12 @@ I also hold a **First Class B.Sc. in Computer Science (Department Best Graduatin
 > Active researcher in Multilingual NLP, Voice-Based Accessibility, and Machine Learning.
 
 📄 **Predicting Situational Economic Recession Using Machine Learning** *(Corresponding Author)*  
-Naïve Bayes · SVM · Random Forest · Logistic Regression — **95.24% predictive accuracy**  
-*Australian Journal of Science and Technology, 10(1), 27–34 · 2026*  
+Naïve Bayes · SVM · Random Forest · Logistic Regression - **95.24% predictive accuracy**  
+*Australian Journal of Science and Technology, 10(1), 27-34 · 2026*  
 → [Full Text](https://aujst.com/vol-10-1/5.pdf)
 
 📄 **Voice-Based Electronic Results System for Physically Challenged Students**  
-Google Speech API · Hidden Markov Models · Custom NLP · Browser Extension — **92% usability satisfaction**  
+Google Speech API · Hidden Markov Models · Custom NLP · Browser Extension - **92% usability satisfaction**  
 *NIPES Journal of Science and Technology Research, 7(4) · Scopus-Indexed · 2025*  
 → [DOI: 10.37933/nipes/7.4.2025.1324](https://doi.org/10.37933/nipes/7.4.2025.1324)
 
@@ -124,12 +128,7 @@ Google Speech API · Hidden Markov Models · Custom NLP · Browser Extension —
 
 <div align="center">
 
-<!-- Streak stats — separate reliable host -->
-<!-- <img src="https://streak-stats.demolab.com?user=ENOCH1234&theme=tokyonight&hide_border=true" />
-
-<br/><br/> -->
-
-<!-- Activity graph — its own stable deployment -->
+<!-- Activity graph - its own stable deployment -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ENOCH1234&theme=tokyo-night&hide_border=true" />
 
 </div>
@@ -142,23 +141,23 @@ Google Speech API · Hidden Markov Models · Custom NLP · Browser Extension —
 
 ## 🎓 Education
 
-**B.Sc. Computer Science — First Class Honours** · Adekunle Ajasin University, Akungba Akoko *(2018 – 2023)*  
+**B.Sc. Computer Science - First Class Honours** · Adekunle Ajasin University, Akungba Akoko *(2018 - 2023)*  
 📌 CGPA: **4.52 / 5.0** · **Best Graduating Student** (Top 1% of 120 students)  
 Microsoft Learn Student Ambassador · Google Developer Student Clubs Lead · MLH Organizer
 
-**Diploma in Computer Science** · The Ibarapa Polytechnic, Eruwa *(2015 – 2017)*  
+**Diploma in Computer Science** · The Ibarapa Polytechnic, Eruwa *(2015 - 2017)*  
 📌 CGPA: **3.74 / 4.0** · Top 5% of 150 students
 
 ---
 
 ## 🏆 Recognition & Leadership
 
-- 🥇 **Best Graduating Student** — Dept. of Computer Science, AAUA (2023)
-- 🌍 **Global Featured Lead** — Google Developer Student Clubs (Jan 2021)
-- 🏅 **Top Innovator** — Facebook Andela Cohort 2 (2020)
-- 📣 **50 Most Influential NASSites** — Ruby List, AAUA (2020)
-- 🧑‍🏫 Mentor — Microsoft Learn Student Ambassador (2022)
-- 🔧 MLH Organizer (2020–2023) · Ingressive for Good Campus Lead (2021–2022)
+- 🥇 **Best Graduating Student** - Dept. of Computer Science, AAUA (2023)
+- 🌍 **Global Featured Lead** - Google Developer Student Clubs (Jan 2021)
+- 🏅 **Top Innovator** - Facebook Andela Cohort 2 (2020)
+- 📣 **50 Most Influential NASSites** - Ruby List, AAUA (2020)
+- 🧑‍🏫 Mentor - Microsoft Learn Student Ambassador (2022)
+- 🔧 MLH Organizer (2020 - 2023) · Ingressive for Good Campus Lead (2021 - 2022)
 
 ---
 
@@ -181,8 +180,9 @@ Microsoft Learn Student Ambassador · Google Developer Student Clubs Lead · MLH
 
 ### 📫 Let's Build Something Extraordinary
 
+[![Website](https://img.shields.io/badge/Website-enocholayode.com-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://enocholayode.com)
 [![Email](https://img.shields.io/badge/Email-olayodeenoch%40gmail.com-3b82f6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olayodeenoch@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enocholayode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/enoch-olayode)
 [![GitHub](https://img.shields.io/badge/GitHub-ENOCH1234-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ENOCH1234)
 
 📍 Ibadan, Nigeria (UTC+1) · **Open to relocation & remote opportunities worldwide**
